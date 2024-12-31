@@ -1,0 +1,1 @@
+You shouldn't place any of these manually in your scene with the exception of the MarsFPSKit_IngamePrefab object.
