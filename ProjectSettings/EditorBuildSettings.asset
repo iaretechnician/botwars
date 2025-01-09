@@ -20,7 +20,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/314 Arts/MarsFPSKit/Scenes/Showcase_Map.unity
     guid: 738b94d1afdf6074c889e8edf557ccae
-  - enabled: 1
-    path: Assets/Scenes/Industrial.unity
-    guid: 8b0ec2cfbf093964e95088c98245fa22
   m_configObjects: {}

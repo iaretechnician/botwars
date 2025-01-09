@@ -18,4 +18,5 @@ MonoBehaviour:
   playerModelDefault: 0
   playerModels:
   - {fileID: 11400000, guid: 7f9fc6492ab1e1f46b8d48a2ccd737d0, type: 2}
-  - {fileID: 11400000, guid: eba1002f292abb84baad65cf33f32693, type: 2}
+  - {fileID: 11400000, guid: bda40484e5cd3114382c5c8559362a11, type: 2}
+  - {fileID: 11400000, guid: 1c12a910a16ffdb4987016fee83109eb, type: 2}

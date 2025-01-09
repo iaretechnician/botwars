@@ -18,7 +18,6 @@ MonoBehaviour:
   maps:
   - {fileID: 11400000, guid: fd00df94e64985b48b41a871d55f910d, type: 2}
   - {fileID: 11400000, guid: ce8f0bb187976c54ab05dc046451ea9e, type: 2}
-  - {fileID: 11400000, guid: 686c178e9b57b3542b44be88679a221a, type: 2}
   coopPlayerAmount: 4
   menuPrefab: {fileID: 3708633093598800005, guid: ec069ed34bd73fa4897ca2e96349c297,
     type: 3}
@@ -40,5 +39,5 @@ MonoBehaviour:
       attachments: 
     teamLoadout: []
   spawnPlayerModels:
-  - information: {fileID: 11400000, guid: eba1002f292abb84baad65cf33f32693, type: 2}
-    customization: 
+  - information: {fileID: 11400000, guid: 7f9fc6492ab1e1f46b8d48a2ccd737d0, type: 2}
+    customization: 00000000
